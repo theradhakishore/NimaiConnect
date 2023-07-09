@@ -1,0 +1,18 @@
+{
+    "language":"हिंदी",
+    "greeting":"नमस्ते ",
+    "subGreeting":"निमाई कनेक्ट में आपका स्वागत है",
+    "specializations":"विशेषज्ञता",
+    "availableDoctors":"उपलब्ध चिकित्सक",
+    "availableHospitals":"उपलब्ध अस्पताल",
+    "your":"आपकी ",
+    "profile":"प्रोफ़ाइल",
+    "appointments":"नियुक्तियाँ",
+    "medications":"दवाएं",
+    "dashboard":"डैशबोर्ड",
+    "seeall":"सभी देखें",
+    "refer":"रेफर ",
+    "contact":"संपर्क करे",
+    "logout":"लोग आउट",
+    "record":"रिकॉर्ड प्रेस्क्रिप्शन्स"
+}

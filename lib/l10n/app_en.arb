@@ -1,0 +1,18 @@
+{
+    "language":"English",
+    "greeting":"Hello! ",
+    "subGreeting":"Welcome to Nimai Connect",
+    "specializations":"Specializations",
+    "availableDoctors":"Available Doctors",
+    "availableHospitals":"Available Hospitals",
+    "your":"Your ",
+    "profile":"Profile",
+    "appointments":"Appointments",
+    "medications":"Medications",
+    "dashboard":"Dashboard",
+    "seeall":"See All",
+    "refer":"Refer",
+    "contact":"Contact",
+    "logout":"Log out",
+    "record":"Record Prescription"
+}
